@@ -18,7 +18,7 @@
  
 <div>
   <a href="https://instagram.com/talitha_lemes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/talitha-neves-lemes-025b66168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Animação de cobra](https://github.com/TalithaNeves/TalithaNeves/blob/output/github-contribution-grid-snake.svg)
 
