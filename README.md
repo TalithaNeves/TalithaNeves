@@ -1,4 +1,4 @@
-###  Sejam bem vindo ao meu perfil, sou Talitha Neves!!! 
+###  Sejam bem vindo ao meu perfil, sou Talitha Neves!!! 😍
 
 
 <div>
